@@ -1,6 +1,6 @@
 [live link](https://eclipse.bytexl.live/)
 
-# Eclipse IDE – Detailed Overview
+# Eclipse IDE 
 
 ## Introduction
 
